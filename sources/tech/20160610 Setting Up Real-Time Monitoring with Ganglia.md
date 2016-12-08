@@ -1,3 +1,4 @@
+zjj 翻译中
 Setting Up Real-Time Monitoring with ‘Ganglia’ for Grids and Clusters of Linux Servers
 ===========
 
